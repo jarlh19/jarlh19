@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** · Lima, Peru
 
-Final-year Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC), graduating in December 2026. I build web and mobile apps end to end: the data model, the backend and the screen people actually use.
+I build web and mobile apps end to end: the data model, the backend and the screen people actually use.
 
 Open to remote and on-site full-stack roles starting December 2026.
 
