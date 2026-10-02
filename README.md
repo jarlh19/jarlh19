@@ -6,7 +6,7 @@ Final-year Software Engineering student at Universidad Peruana de Ciencias Aplic
 
 Open to remote and on-site full-stack roles starting December 2026.
 
-**Languages:** Spanish (native) · English (advanced, C1)
+**Languages:** Spanish (native) · English (advanced, C1) · Portuguese (basic)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-laban-hijar)
 
