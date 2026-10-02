@@ -4,7 +4,7 @@
 
 I build web and mobile apps end to end: the data model, the backend and the screen people actually use.
 
-Open to remote and on-site full-stack roles starting December 2026.
+Open to remote and on-site full-stack roles.
 
 **Languages:** Spanish (native) · English (advanced, C1) · Portuguese (basic)
 
