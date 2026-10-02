@@ -26,6 +26,18 @@ Open to remote and on-site full-stack roles starting December 2026.
 
 ## Featured projects
 
+### Tienda con microservicios — Spring Boot and Spring Cloud
+
+A store split into five services that shows four distributed-systems patterns with scenarios you can reproduce.
+
+- **Saga** orchestrated by the orders service: reserve stock, then charge; if a step fails, compensations release the stock or refund the payment, and they are retried until they complete.
+- **Circuit Breaker** (Resilience4j) on the calls to inventory and payments, **API Gateway** that only publishes read endpoints, and **Config Server** with the configuration of every service.
+- One PostgreSQL database per service, 43 tests (JUnit 5, Mockito) and GitHub Actions that runs them and builds the Docker images.
+
+`Java 21` `Spring Boot 3.5` `Spring Cloud` `Resilience4j` `PostgreSQL` `Docker`
+
+[Code](https://github.com/jarlh19/tienda-microservicios)
+
 ### Mi Plato — from a meal photo to nutrition facts
 
 <img src="https://raw.githubusercontent.com/jarlh19/mi-plato/main/docs/screenshots/diary.png" width="160" alt="Mi Plato daily summary"> <img src="https://raw.githubusercontent.com/jarlh19/mi-plato/main/docs/screenshots/verdict.png" width="160" alt="Mi Plato meal verdict">
