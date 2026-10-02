@@ -28,6 +28,8 @@ Open to remote and on-site full-stack roles starting December 2026.
 
 ### Mi Plato — from a meal photo to nutrition facts
 
+<img src="https://raw.githubusercontent.com/jarlh19/mi-plato/main/docs/screenshots/diary.png" width="160" alt="Mi Plato daily summary"> <img src="https://raw.githubusercontent.com/jarlh19/mi-plato/main/docs/screenshots/verdict.png" width="160" alt="Mi Plato meal verdict">
+
 Take a photo of your plate and get calories, macros and a verdict on the meal.
 
 - A vision model only identifies the foods and estimates their weight; the nutrients come from USDA FoodData Central.
@@ -41,6 +43,8 @@ Take a photo of your plate and get calories, macros and a verdict on the meal.
 
 ### Tienda de Barrio — an app for a neighborhood store
 
+<img src="https://raw.githubusercontent.com/jarlh19/tienda-barrio/main/docs/screenshots/catalog.png" width="160" alt="Tienda de Barrio catalog"> <img src="https://raw.githubusercontent.com/jarlh19/tienda-barrio/main/docs/screenshots/production-recipe.png" width="160" alt="Tienda de Barrio production costed from the recipe">
+
 Customers browse the catalog, fill a cart and place orders; the shopkeeper runs the store from their own panel.
 
 - Stock intake by scanning barcodes: a known code opens the product to restock it, a new one opens the form already filled in.
@@ -53,6 +57,8 @@ Customers browse the catalog, fill a cart and place orders; the shopkeeper runs 
 [Code](https://github.com/jarlh19/tienda-barrio)
 
 ### Flores Amarillas — a personalized 3D flower garden
+
+<img src="https://raw.githubusercontent.com/jarlh19/flores-amarillas/main/docs/screenshots/editor.jpg" width="480" alt="Flores Amarillas editor with live 3D preview">
 
 A web app to build a 3D sunflower garden as a gift, with your own photos and messages.
 
